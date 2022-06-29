@@ -1,4 +1,6 @@
 ## SERVER
+Run perfectly but not use
+Because deploy onserver vercel not support (only have money =)))
 
 **run development**
 1.terminal 1:
