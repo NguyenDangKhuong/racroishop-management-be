@@ -4,7 +4,7 @@
   "description": "shop",
   "main": "src/index.ts",
   "scripts": {
-    "_build": "rm -rf dist && tsc",
+    "_build": "rm -rf dist && tsc && yarn start",
     "start": "node dist/index.js",
     "server": "nodemon dist/index.js",
     "start-ts": "ts-node src/index.ts",
