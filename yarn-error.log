@@ -1,0 +1,36 @@
+Arguments: 
+  /Users/khuong/.nvm/versions/node/v14.16.1/bin/node /Users/khuong/.nvm/versions/node/v14.16.1/bin/yarn add argon2-D cors dotenv express jsonwebtoken mongoose
+
+PATH: 
+  /Users/khuong/.nvm/versions/node/v14.16.1/bin:/Users/khuong/.nvm/versions/node/v14.16.1/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/khuong/.nvm/versions/node/v14.16.1/bin
+
+Yarn version: 
+  1.22.18
+
+Node version: 
+  14.16.1
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: https://registry.yarnpkg.com/argon2-D: Not found
+      at Request.params.callback [as _callback] (/Users/khuong/.nvm/versions/node/v14.16.1/lib/node_modules/yarn/lib/cli.js:66138:18)
+      at Request.self.callback (/Users/khuong/.nvm/versions/node/v14.16.1/lib/node_modules/yarn/lib/cli.js:140883:22)
+      at Request.emit (events.js:315:20)
+      at Request.<anonymous> (/Users/khuong/.nvm/versions/node/v14.16.1/lib/node_modules/yarn/lib/cli.js:141855:10)
+      at Request.emit (events.js:315:20)
+      at IncomingMessage.<anonymous> (/Users/khuong/.nvm/versions/node/v14.16.1/lib/node_modules/yarn/lib/cli.js:141777:12)
+      at Object.onceWrapper (events.js:421:28)
+      at IncomingMessage.emit (events.js:327:22)
+      at endReadableNT (internal/streams/readable.js:1327:12)
+      at processTicksAndRejections (internal/process/task_queues.js:80:21)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
